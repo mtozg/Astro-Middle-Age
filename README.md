@@ -19,6 +19,7 @@ assets/          # (Opsiyonel) görseller
 docs/            # (Opsiyonel) dökümanlar
 ## ▶️ Çalıştırma
 python3 main.py
+Replit’te direkt çalışır.
 
 ## 🚀 Yol Haritası
 - Daha fazla görev etkileşimi  
